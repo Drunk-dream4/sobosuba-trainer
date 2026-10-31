@@ -1,0 +1,19 @@
+# 构建中间产物与测试文件
+work/
+test/
+backups/
+tools/gdre/
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 日志
+*.log
+trainer_log.txt
+patch_log.txt
+
+# PyInstaller
+build/
+dist/
+*.spec
